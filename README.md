@@ -12,7 +12,7 @@ A simple Python contact list application that stores contacts in a JSON file.
 - Load contacts when the program starts
 - Validate phone numbers and emails
 
-## How to Run
+### How to Run
 
 Run the program using:
 
